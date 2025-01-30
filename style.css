@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 1000px;
+    font-size: 25px;
+}
+
+.button{
+    margin: 20px;
+    color:gold;
+    background-color: green;
+}
