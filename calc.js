@@ -34,7 +34,7 @@ if (symbol == `+`){
 } else if(symbol == `^`){
     result = numOne**numTwo;
     document.open();
-    document.write(`Your quotient is `+result);
+    document.write(`Your product is `+result);
     document.close();
 } else if(symbol != `+`,`-`,`x`,`*`,`/`,`^`){
     // If symbol is not recognized; play error message
